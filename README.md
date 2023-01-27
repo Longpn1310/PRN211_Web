@@ -1,2 +1,2 @@
 # PRN211_Web
-Web Booking Movie
+Movie Management Website
